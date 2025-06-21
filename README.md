@@ -142,4 +142,4 @@ This project is licensed under the **ISC License**.
 
 ## 👨‍💻 Author
 
-**Dhaval Leelawala** – [@your-github](https://github.com/dhavalrw6)
+**Dhaval Leelawala** – [@Dhaval-github](https://github.com/dhavalrw6)
